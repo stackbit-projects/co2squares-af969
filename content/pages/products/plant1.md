@@ -1,14 +1,11 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
-title: Nulla suscipit
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
-default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
+price: '119.99'
+title: 8 x 8 Case
+description: 16 Pieces of - 8 x 8 squares
+default_thumbnail_image: images/pf-a638c068--DSC00011.jpg
+default_original_image: images/pf-a638c068--DSC00011-be0b4b2e.jpg
 featured: true
 order: 1
 category: content/pages/category/bigplants.md
