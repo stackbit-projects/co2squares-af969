@@ -1,9 +1,9 @@
 {
-    "title": "Planty",
+    "title": "Co2 Squares",
     "path_prefix": "/",
     "favicon": "images/favicon.png",
-    "logo_dark": "images/logo.svg",
-    "logo_light": "images/logo-white.svg",
+    "logo_dark": "images/co2_black_360x@2x-04ea2f43.png",
+    "logo_light": "images/co2_black_360x@2x.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://co2squares-af969.netlify.app"
 }
