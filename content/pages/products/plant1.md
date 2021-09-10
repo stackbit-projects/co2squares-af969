@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
+price: '119.99'
 title: 8 x 8 Case
 description: 16 Pieces of - 8 x 8 squares
 default_thumbnail_image: images/pf-a638c068--DSC00011.jpg
